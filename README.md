@@ -1,5 +1,8 @@
 <!-- Header -->
 
+![github-header-image](https://github.com/user-attachments/assets/939b0954-4ba5-4e67-967c-0dfa40b0621f)
+<br><br>
+
 <!-- Typing Mode -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=1000&color=3ddc84&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+%F0%9F%99%83)](https://git.io/typing-svg)
 
