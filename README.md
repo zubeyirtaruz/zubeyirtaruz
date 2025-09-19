@@ -7,27 +7,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=1000&color=3ddc84&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+%F0%9F%99%83)](https://git.io/typing-svg)
 
 
-## 🔸Who am I
-- I graduated from Kocaeli University | Computer Engineering<br>
-- I am a software lover.<br>
+## 🔸 About Me  
+- 🎓 Graduated in **Computer Engineering** from Kocaeli University  
+- 💻 Android Developer with professional experience at **Huawei**  
+- 🚀 Specialized in **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture**  
+- 📱 Passionate about creating **modern, high-performance, and user-friendly mobile apps**  
+- 🌱 Always improving by following the latest **Android tools, trends, and technologies**  
 
-## 🔸What am I doing
-- I am working on Android mobile application development.<br>
-- Since I love to design, I am also trying to improve myself in the field of UI.<br>
-- I try to improve myself by attending trainings.
+## 🔸 Work & Projects  
+- **Huawei (2022 – 2025)**  
+  Developed mobile apps showcasing **Huawei Mobile Services (HMS)**, provided technical support for **Ads Kit integration, optimization, and mediation** (AdMob, AppLovin, IronSource), and contributed to modern Android app development using **Hilt, Jetpack, and Kotlin**.  
 
+- **QuoTable (Nov 2022 – Jan 2023)**  
+  Android app for sharing favorite book quotes on social media with customizable templates. Integrated **HMS Kits** and modern UI components.  
 
-## 🔸Languages and Tools I Use
+- **Footify (Jul 2025 – Present)**  
+  Football quiz app built with **Kotlin, Jetpack Compose, MVVM**, featuring **Room, Retrofit, Firebase, Hilt, DataStore, ExoPlayer, and AdMob**. Includes multiple game modes, score tracking, and offline/online data management.  
 
-| Android | Kotlin | Java | Firebase | SQLite | Postman | Git 
-| :-: | :-: | :-: | :-: | :-: | :-: | :-:
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" width="43" height="43"/>|<img align="center" 
-
-<!-- Design Tool -->
-## 🔸Design Tool I Use
-| Figma |
-| :-: |
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
+## 🔸 Tech Stack  
+**Languages & Frameworks:** Kotlin, Java, Jetpack Compose, Material Design  
+**Architecture:** MVVM, Clean Architecture  
+**Tools:** Hilt, Dagger, Gradle, Git, Coroutines, RxJava  
+**Databases & APIs:** Retrofit, Room, DataStore, Gson, Firebase, HMS  
+**Others:** ExoPlayer, AdMob, Figma  
 
 <!-- Contact -->
 ## :link: **Contact**
